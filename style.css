@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bodystyle{
+    width: 90%;
+    margin: 0 auto;
+}
+.user{
+    font-size: 25px;
+}
+main{
+    margin: 40px 0;
+}
+.card{
+    border: none !important;
+}
+.button{
+    margin-top: -5px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.sectionstyle{
+    width:100%;
+    height:452px;
+    background-image: url("image/scrollimg2.png");
+    margin: 20px 0 40px 0;
+    color:black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left:70px ;
+}
+.section2 h3{
+    margin-top: 20px;
+    
+}
+.section2 p{
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.button-2{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    padding:10px 20px;
+    border: none;
+    color:white;
+    background-color: black;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+.card-title{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.card-text{
+    margin-top: -5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.section1style{
+    width:100%;
+    height:452px;
+    background-image: url("image/section1.png");
+    margin: 20px 0 40px 0;
+    color:black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left:70px ;
+}
+.section1 h3{
+    margin-top: 20px;
+    
+}
+.section1 p{
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.button-1{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    padding:10px 20px;
+    border: none;
+    color:white;
+    background-color: black;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.btmcard{
+    margin: 50px 0;
+}
+.social-list{
+    list-style: none;
+    
+}
+.list1,.list2,.list3{
+    margin-left:15px;
+    vertical-align: middle;
+}
+.list1 i{
+    color: #3b5499;
+}
+.list2 i{
+    color: #55acee;
+}
+.list3 i{
+    color: #ed2b2f;
+}
+footer{
+    background: #f2f2f2;
+    padding: 40px 0;
+}
+footer li{
+    list-style: none;
+}
+footer a{
+    text-decoration: none;
+    color:#818181;
+    font-size: 11px;
+}
+footer p{
+    color: #616161;
+    font-size: 15px;
+    
+}
+.footermenu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footermenu p{
+    color:#818181;
+    font-size: 11px;
+    margin-left: 20px;
+}
+.row-p{
+    color:#818181;
+    font-size: 11px;
+    
+}
+.row-p i{
+    margin-right: 10px;
+    margin-left: 22px;
+}
+.footermenu1{
+    display: flex;
+    justify-content: start;
+}
+.footermenu1 p{
+    color:#818181;
+    font-size: 11px;
+}
+.footermenu1-p{
+    margin-left: 22px;
+}
+.footerlist{
+    padding-top: 30px;
+}
